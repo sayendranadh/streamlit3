@@ -143,22 +143,6 @@ The app allows you to download:
 
 ---
 
-## 📸 **Screenshots**  
-
-### 📊 TF-IDF Word Importance  
-![TF-IDF Bar Chart](https://via.placeholder.com/800x400?text=TF-IDF+Word+Importance)
-
-### 🌥 Sentiment-Based Word Cloud  
-![Word Cloud](https://via.placeholder.com/800x400?text=Word+Cloud+Sentiment)
-
-### 📈 Sentiment Trend Over Time  
-![Sentiment Trend](https://via.placeholder.com/800x400?text=Sentiment+Trend+Over+Time)
-
-### 🔥 Feature Correlation Heatmap  
-![Correlation Heatmap](https://via.placeholder.com/800x400?text=Feature+Correlation+Heatmap)
-
----
-
 ## 🛠 **Technologies Used**  
 ✅ **Python** 🐍  
 ✅ **Streamlit** 🎨  
